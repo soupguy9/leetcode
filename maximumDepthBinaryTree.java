@@ -7,6 +7,7 @@
  *     TreeNode(int x) { val = x; }
  * }
  */
+ //Need to understand binary trees better. 
 class Solution {
     public int maxDepth(TreeNode root) throws IllegalArgumentException {
         if (root == null) {
